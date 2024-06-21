@@ -1,0 +1,4 @@
+name: TNTOnBreak
+version: '1.0'
+main: me.neon.tntonbreak.TNTOnBreak
+api-version: '1.20'
