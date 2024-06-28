@@ -1,5 +1,0 @@
-name: DeathCheat
-version: '${project.version}'
-main: me.night.deathcheat.DeathCheat
-api-version: '1.20'
-
