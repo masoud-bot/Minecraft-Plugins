@@ -39,7 +39,7 @@ public final class DeathCheat extends JavaPlugin implements Listener {
             double damage = event.getFinalDamage();
 
             // If the entity has more than 2 hearts and would be killed by this damage
-            if (health >= 4.0 && health - damage <= 0) {
+            if (health >= 5.5 && health - damage <= -2) {
                 event.setDamage( 0);
                 ((LivingEntity) entity).setHealth(1);
                 // Send a message to all players in chat
