@@ -1,0 +1,10 @@
+name: dragonYeet
+version: '1.0'
+main: me.night.dragonyeet.DragonYeet
+api-version: '1.20'
+author: nght
+
+commands:
+  dragonyeet:
+    description: Toggle the knock back effect on and off.
+    usage: /knockback <on|off>
